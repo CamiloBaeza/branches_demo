@@ -6,5 +6,7 @@ leche
 lechuga
 pollo
 pescado
+peras
 aceite
 harina
+aji
