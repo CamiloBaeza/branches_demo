@@ -1,3 +1,6 @@
 tomates
 naranjas
 melones
+chocolate
+leche
+lechuga
