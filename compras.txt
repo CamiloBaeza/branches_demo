@@ -6,10 +6,7 @@ leche
 lechuga
 pollo
 pescado
-<<<<<<< patch-2
-aji
 peras
-=======
 aceite
 harina
->>>>>>> loco-2
+aji
