@@ -10,3 +10,5 @@ peras
 aceite
 harina
 aji
+chocolate blanco
+mayonesa
