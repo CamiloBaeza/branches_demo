@@ -4,3 +4,5 @@ melones
 chocolate
 leche
 lechuga
+pollo
+pescado
