@@ -6,3 +6,5 @@ leche
 lechuga
 pollo
 pescado
+aji
+peras
