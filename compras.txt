@@ -12,6 +12,3 @@ harina
 aji
 chocolate blanco
 mayonesa
-manzanas
-natrol
-cerveza
